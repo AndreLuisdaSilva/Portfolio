@@ -4,13 +4,13 @@ Este projeto é uma página pessoal de portfólio que destaca minhas habilidades
 
 ## Índice
 
-1. [Visão Geral](#visão-geral)
-2. [Estrutura do Projeto](#estrutura-do-projeto)
-3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-4. [Funcionalidades](#funcionalidades)
-5. [Projetos](#projetos)
-6. [Contato](#contato)
-7. [Como Executar o Projeto](#como-executar-o-projeto)
+ [Visão Geral](#visão-geral)
+ [Estrutura do Projeto](#estrutura-do-projeto)
+ [Tecnologias Utilizadas](#tecnologias-utilizadas)
+ [Funcionalidades](#funcionalidades)
+ [Projetos](#projetos)
+ [Contato](#contato)
+ [Como Executar o Projeto](#como-executar-o-projeto)
 
 ## Visão Geral
 
