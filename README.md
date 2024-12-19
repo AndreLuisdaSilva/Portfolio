@@ -57,7 +57,7 @@ A estrutura básica do projeto é a seguinte:
 ## Contato
 
 - **GitHub**: [AndreLuisdaSilva](https://github.com/AndreLuisdaSilva)
-- **LinkedIn**: [André Luis da Silva](https://www.linkedin.com/in/andre-luis-da-silva)
+- **LinkedIn**: [André Luis da Silva](https://www.linkedin.com/in/andr%C3%A9-luis-da-silva-30338a219/)
 
 ## Como Executar o Projeto
 
