@@ -14,7 +14,7 @@ Este projeto é uma página pessoal de portfólio que destaca minhas habilidades
 
 ## Visão Geral
 
-Este portfólio é uma vitrine dos meus projetos e habilidades como **Full Stack Developer** e **Data Engineer**. A página é responsiva, simples e moderna, com uma navegação intuitiva e de fácil leitura.
+Este [portfólio](https://andreluisdasilva.github.io/Portfolio/) é uma vitrine dos meus projetos e habilidades como **Full Stack Developer** e **Data Engineer**. A página é responsiva, simples e moderna, com uma navegação intuitiva e de fácil leitura.
 
 ## Estrutura do Projeto
 
