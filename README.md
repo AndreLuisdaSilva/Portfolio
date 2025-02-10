@@ -49,6 +49,11 @@ A estrutura básica do projeto é a seguinte:
 - **Descrição**: Um site de exemplo que demonstra habilidades com HTML e CSS.
 - **Link**: [Acesse aqui](https://github.com/AndreLuisdaSilva/CSS-DIO)
 
+### Sistema de Vendas de Ingressos (Backend)
+
+- **Descrição**: Backend de um sistema de vendas de ingressos.
+- **Link**: [Acesse aqui](https://github.com/AndreLuisdaSilva/Sistemadevendasdeingressosbackend)
+  
 ### Clone do Discord
 
 - **Descrição**: Um clone da interface do Discord.
