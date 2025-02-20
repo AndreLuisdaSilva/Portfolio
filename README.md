@@ -69,7 +69,7 @@ A estrutura básica do projeto é a seguinte:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/AndreLuisdaSilva/portfolio
+git clone https://github.com/AndreLuisdaSilva/Portfolio.git
 ```
 Abra o arquivo index.html no seu navegador.
 Licença
