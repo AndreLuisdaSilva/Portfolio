@@ -66,7 +66,6 @@ python -m http.server 8000
 
 ## Personalização
 
-- **E-mail:** troque `seu-email@exemplo.com` no `index.html` pelo endereço real.
 - **Textos:** projetos, experiência e formação ficam diretamente no `index.html`.
 - **Cores:** definidas como variáveis CSS no topo de `styles.css` (`:root`), fáceis de ajustar.
 - Os arquivos são referenciados por caminho relativo — se renomear `styles.css` ou `main.js`, atualize os links correspondentes no `index.html`.
